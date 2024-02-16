@@ -11,9 +11,9 @@ const AboutPage = () => {
         </h1>
         <p className={styles.description}>
           We create digital ideas that are bigger, bolder, braver and better. We
-          believe in good ideas flexibility and precision. We're world's our
-          special team best consulting & finance solution provider. wide ranger
-          of web and software development services.
+          believe in good ideas flexibility and precision. We&lsquo;re
+          world&lsquo;s our special team best consulting & finance solution
+          provider. wide ranger of web and software development services.
         </p>
         <div className={styles.boxes}>
           <div className={styles.box}>
